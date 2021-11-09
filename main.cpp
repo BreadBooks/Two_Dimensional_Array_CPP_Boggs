@@ -117,11 +117,6 @@ int main()
 
     
    //For up to 5 Points Extra Credit
-
-
-
-
-
     //   1. Create a one dimensional array, cityOne[7] to store the 7 temperatures of city 1, assume that value 0 represents day 1, 1 represents day 2....
     int cityOne[7] = {76, 72, 68, 66, 64, 73, 65};
     //   2. Create a on dimensional array, cityTwo[7] to store the 7 temperatures of city 2 , assume that value 0 represents day 1, 1 represents day 2....
