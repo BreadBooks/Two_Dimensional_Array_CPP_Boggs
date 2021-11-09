@@ -131,7 +131,7 @@ int main()
         }
     //   4. print the results of temperature[i][j]; to the screen.
     std::vector<std::string> cityName = {"Dallas", "Denver"};
-    cout<<"Dallas & Denver Week Temps\n";
+    cout<<"\nDallas & Denver Week Temps\n";
         
     for (int i = 0; i < CITY; i++){
         for(int j = 0; j < WEEK; j++){   
