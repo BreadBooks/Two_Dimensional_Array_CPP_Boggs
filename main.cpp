@@ -17,7 +17,7 @@ using namespace std;
 
 // Pick two cities of your choice. Fill in the temperature for the 7 days of this week of both cities. Fill in this text data table, which will be used in your program.
 
-// Dallas = 1, Denver = 2;  // Replace Dallas and Denver with the names of your cities
+// Dallas = 1, Denver = 2;  // Replace cityOne and cityTwo with the names of your cities
 
 //Data Table
 
